@@ -1,8 +1,7 @@
 ![image](https://scholar.googleusercontent.com/citations?view_op=medium_photo&user=FrA8YaAAAAAJ&citpid=7) 
 
 ## Introduction
-With fast-growing technology, brain imaging techniques can provide lots of detailed information about the brain. Therefore, exploring the interesting information from various perspectives and providing a better sense of understanding about the human brain is considerable. 
-Reza's research focuses on developing methodologies for investigating the complexity of EEG, MEG, and ERP data to explore interesting patterns. 
+Reza's research focuses on developing methodologies for investigating the complexity of EEG, MEG, and ERP data to explore interesting patterns. Hence, We design advanced machine learning methods for studying interesting information from various perspectives to understand the human brain better.
 
 ### Disciplines
 Information Science; Biomedical Engineering; Applied Mathematics
