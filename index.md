@@ -1,7 +1,7 @@
 ![image](https://scholar.googleusercontent.com/citations?view_op=medium_photo&user=FrA8YaAAAAAJ&citpid=7) 
 
-## About Reza Mahini
-Reza's research focuses on developing suitable methodologies for investigating EEG, MEG, and ERP data analysis. With fast-growing technology, brain imaging techniques can provide lots of detailed information about the brain. Exploring the interesting pieces of information from a fresh perspective of brain imaging is always interesting. New methodologies provide a better sense of understanding about the reflection of the brain in the known environments.
+## About
+With fast-growing technology, brain imaging techniques can provide lots of detailed information about the brain. Therefore, exploring the interesting information from various perspectives and providing a better sense of understanding about the human brain is considerable. Reza's research focuses on developing methodologies for investigating the complexity of EEG, MEG, and ERP data to explore interesting patterns. 
 
 ### Disciplines
 Information Science; Biomedical Engineering; Applied Mathematics
