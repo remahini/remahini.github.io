@@ -1,5 +1,5 @@
-![image](https://scholar.googleusercontent.com/citations?view_op=medium_photo&user=FrA8YaAAAAAJ&citpid=7) 
 
+![image](https://scholar.googleusercontent.com/citations?view_op=medium_photo&user=FrA8YaAAAAAJ&citpid=7) 
 ## Introduction
 Reza's research focuses on developing methodologies for investigating the complexity of EEG, MEG, and ERP data to explore interesting patterns. Hence, We design advanced machine learning methods for studying interesting information from various perspectives to understand the human brain better.
 
