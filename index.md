@@ -1,71 +1,35 @@
-# Welcome to Jekyll!
-#
-# This config file is meant for settings that affect your whole blog, values
-# which you are expected to set up once and rarely need to edit after that.
-# For technical reasons, this file is *NOT* reloaded automatically when you use
-# 'jekyll serve'. If you change this file, please restart the server process.
+![image](https://scholar.googleusercontent.com/citations?view_op=medium_photo&user=FrA8YaAAAAAJ&citpid=7) 
+## Introduction
+My research focuses on developing machine learning-based methods for modeling brain imaging data, such as EEG/MEG. The core goal of developing models is to explore/confirm interpretable interesting patterns associated with the human brain information processing. I am also interested in designing statistical models for testing experimental/computational hypotheses in terms of developing robust signal-processing methods. 
 
-# Site language
-lang: en-US
+### Disciplines
+Information Science; Biomedical Engineering; Applied Mathematics
 
-# Site title
-title: "Scriptor"
-
-# A description of your site for meta tag, search engine results.
-description: "Scriptor is a minimal, clean, modern & responsive Jekyll theme for writers"
-
-# The subpath of your site, e.g. /blog, for generating urls.
-baseurl: ""
-
-# The base hostname & protocol of your site for where absolute urls are needed.
-url: "https://scriptor-jekyll.netlify.com"
-
-# Favicon
-favicon: images/favicon.png
-
-# Google Analytics id, e.g. "UA-NNNNNNNN-N"
-google_analytics: ""
-
-# Site navigation - each item must have a title and a url.
-navigation:
-  - text: Home
-    url: /
-  - text: About
-    url: /about/
-  - text: Style Guide
-    url: /style-guide/
-  - text: Tags
-    url: /tags/
-  - text: Download
-    url: https://github.com/JustGoodThemes/Scriptor-Jekyll-Theme
-
-# The shortname for your Disqus site to enable comments.
-disqus: justgoodthemes
-
-# Colors
-accent_color: '#2d72d9'
-
-# Site footer
-footer:
-  content: "&copy; Scriptor all rights reserved. Theme by [JustGoodThemes](https://www.justgoodthemes.com)."
-  has_social: true
-
-# Plugins
-plugins:
-  - jekyll-paginate
-
-# http://jekyllrb.com/docs/pagination/
-paginate: 3
-paginate_path: '/page:num/'
+### Skills and expertise
+Machine Learning, Signal Processing, Brain Imaging, Computational Neuroscience, Event-Related Potentials (ERP), Electroencephalogram (EEG).
+MatLab, Python, and R toolbox development.
 
 
-# Permalinks
-permalink: /:title
 
-# Conversion
-markdown: kramdown
+### Some of my Recent Publications:
 
-# Sass
-sass:
-  sass_dir: _sass
-  style: compressed
+1.  Mahini, R., Li, F., Zarei, M., Nandi, A. K., Hämäläinen, T., & Cong, F. (2023, 2023/09/01/). Ensemble deep clustering analysis for time window determination of event-related potentials. Biomedical Signal Processing and Control, 86, 105202. [DOI.org/https://doi.org/10.1016/j.bspc.2023.105202](https://doi.org/10.1016/j.bspc.2023.105202)
+2.	Mahini, R., Xu, P., Chen, G., Li, Y., Ding, W., Zhang, L., Qureshi, N. K., Hämäläinen, T., Nandi, A. K., & Cong, F. (2022). Optimal Number of Clusters by Measuring Similarity Among Topographies for Spatio-Temporal ERP Analysis. Brain Topography. [DOI.org/10.1007/s10548-022-00903-2](https://doi.org/10.1007/s10548-022-00903-2) 
+3.	Li, F; Yan, R; Mahini, R; Wei, L; Wang, Zh; Mathiak, K; Liu, R; Cong, F (2021). End-to-end sleep staging using convolutional neural network in raw single-channel EEG. Biomedical Signal Processing and Control, 63, 102203. [DOI:10.1016/j.bspc.2020.102203](https://doi.org/10.1016/j.bspc.2020.102203).
+4.	Mahini, R., Li, Y, Ding, W, Fu, R, Nandi, A. K., Chen G, Cong, F. (2020). Determination of the Time-Window of Event-Related Potential Using Multiple-Set Consensus Clustering., Frontiers in neuroscience.  
+ [DOI:10.3389/fnins.2020.521595](https://doi.org/10.3389/fnins.2020.521595). 
+5. Mahini, R., Zhou, T., Li, P., Nandi, A.K., Li, H., Li, H., Cong, F., (2017). Cluster Aggregation for Analyzing Event-Related Potentials. In: Cong, F., Leung, A., Wei, Q. (Eds.), Advances in Neural Networks - ISNN 2017: 14th International Symposium, ISNN 2017, Sapporo, Hakodate, and Muroran, Hokkaido, Japan, June 21–26, 2017, Proceedings, Part II. Springer International Publishing, Cham, pp. 507-515. [DOI.org/10.1007/978-3-319-59081-3_59](https://doi.org/10.1007/978-3-319-59081-3_59)
+
+
+### Professional Tools 
+
+• Deep clustering for ERP: Semi-supervised and unsupervised deep clustering for cluster analysis modeling (2023). [https://github.com/remahini/Deep_Clustering](https://github.com/remahini/Deep_Clustering)  
+•	Opt_NC ERP MATLAB Toolbox: For determination of the optimal number of clusters in spatio-temporal ERP and processing ERP (2022). [https://github.com/ReyCJ/Opt_NC_ERP](https://github.com/remahini/OptNC_ERP)  
+•	ERP_CC MATLAB Toolbox: For determination of the best time window in spatio-temporal ERP and processing ERP (2019). [http://github.com/ReyCJ/ERP_MSCC](https://github.com/remahini/ERP_MSCC)  
+
+**See more at** [my current research projects and toolboxes](https://www.researchgate.net/profile/Reza-Mahini-2)  
+
+### Contact me at:
+remahini@jyu.fi  
+r.mahini@gmail.com  
+Phone: +358408741499
