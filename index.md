@@ -13,7 +13,7 @@ MatLab, Python, and R toolbox development.
 
 ### Some of my Recent Publications:
 
-1.  Mahini, R., Li, F., Zarei, M., Nandi, A. K., Hämäläinen, T., & Cong, F. (2023, 2023/09/01/). Ensemble deep clustering analysis for time window determination of event-related potentials. Biomedical Signal Processing and Control, 86, 105202. [DOI.org/https://doi.org/10.1016/j.bspc.2023.105202](https://doi.org/10.1016/j.bspc.2023.105202)
+1.  Mahini, R., Li, F., Zarei, M., Nandi, A. K., Hämäläinen, T., & Cong, F. (2023). Ensemble deep clustering analysis for time window determination of event-related potentials. Biomedical Signal Processing and Control, 86, 105202. [DOI.org/https://doi.org/10.1016/j.bspc.2023.105202](https://doi.org/10.1016/j.bspc.2023.105202)
 2.	Mahini, R., Xu, P., Chen, G., Li, Y., Ding, W., Zhang, L., Qureshi, N. K., Hämäläinen, T., Nandi, A. K., & Cong, F. (2022). Optimal Number of Clusters by Measuring Similarity Among Topographies for Spatio-Temporal ERP Analysis. Brain Topography. [DOI.org/10.1007/s10548-022-00903-2](https://doi.org/10.1007/s10548-022-00903-2) 
 3.	Li, F; Yan, R; Mahini, R; Wei, L; Wang, Zh; Mathiak, K; Liu, R; Cong, F (2021). End-to-end sleep staging using convolutional neural network in raw single-channel EEG. Biomedical Signal Processing and Control, 63, 102203. [DOI:10.1016/j.bspc.2020.102203](https://doi.org/10.1016/j.bspc.2020.102203).
 4.	Mahini, R., Li, Y, Ding, W, Fu, R, Nandi, A. K., Chen G, Cong, F. (2020). Determination of the Time-Window of Event-Related Potential Using Multiple-Set Consensus Clustering., Frontiers in neuroscience. [DOI:10.3389/fnins.2020.521595](https://doi.org/10.3389/fnins.2020.521595). 
