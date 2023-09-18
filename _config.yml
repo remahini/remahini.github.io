@@ -1,4 +1,5 @@
 # them: jekyll-them-slate
-remote_them: jekyll-them-scriptor
+them: jekyll-them-slate
+#remote_them: jekyll-them-scriptor
 # remote_them: jekyll-them-forty
 # email: remahini@jyu.fi
