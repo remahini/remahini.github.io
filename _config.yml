@@ -5,3 +5,13 @@ plugins:
 #remote_them: jekyll-them-scriptor
 # remote_them: jekyll-them-forty
 email: remahini@jyu.fi
+# Site title
+title: "Reza Mahini"
+disqus: justgoodthemes
+
+# Colors
+accent_color: '#2d72d9'
+# Site footer
+footer:
+  content: "&copy; Welcome"
+  has_social: true
