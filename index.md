@@ -31,6 +31,6 @@ MatLab, Python, and R toolbox development.
 **See more at** [my current research projects and toolboxes](https://www.researchgate.net/profile/Reza-Mahini-2)  
 
 ### Contact me at:
-[remahini@jyu.fi](remahini@jyu.fi)  
-[r.mahini@gmail.com](r.mahini@gmail.com)  
+remahini@jyu.fi  
+r.mahini@gmail.com  
 Phone: +358408741499
