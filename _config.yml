@@ -6,10 +6,6 @@ plugins:
 #remote_them: jekyll-them-scriptor
 # remote_them: jekyll-them-forty
 
-github:
-  zip_url: http://example.com/download.zip
-  another_url: https://remahini.github.io/
-
 email: remahini@jyu.fi
 # Site title
 title: "Reza Mahini"
