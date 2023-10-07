@@ -6,8 +6,9 @@ plugins:
 #remote_them: jekyll-them-scriptor
 # remote_them: jekyll-them-forty
 
-show_downloads: ["true" or "false" (unquoted) to indicate whether to provide a download URL]
-google_analytics: [Your Google Analytics tracking ID]
+github:
+  zip_url: http://example.com/download.zip
+  another_url: https://remahini.github.io/
 
 email: remahini@jyu.fi
 # Site title
