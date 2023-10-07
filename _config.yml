@@ -5,6 +5,10 @@ plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
 #remote_them: jekyll-them-scriptor
 # remote_them: jekyll-them-forty
+
+show_downloads: ["true" or "false" (unquoted) to indicate whether to provide a download URL]
+google_analytics: [Your Google Analytics tracking ID]
+
 email: remahini@jyu.fi
 # Site title
 title: "Reza Mahini"
