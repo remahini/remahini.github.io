@@ -1,3 +1,6 @@
+---
+---
+@import "{{ site.theme }}";
 # them: jekyll-them-slate
 # remote_theme: pages-themes/slate@v0.2.0
 remote_theme: pages-themes/minimal@v0.2.0
