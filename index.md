@@ -13,7 +13,7 @@ MatLab, Python, and R toolbox development.
 
 ### Some of my Recent Publications:
 
-1.  Mahini, R., Zhang, G., Parviainen, T., Düsing, R., Nandi, A. K., Cong, F., & Hämäläinen, T. (2023). Brain Evoked Response Qualification Using Multi-set Consensus Clustering: Toward Single-trial EEG Analysis. Submitted to Psycho-physiology available as preprint at Authorea. (URL) [https://doi.org/10.22541/au.169600882.28722374/v1].  
+1.  Mahini, R., Zhang, G., Parviainen, T., Düsing, R., Nandi, A. K., Cong, F., & Hämäläinen, T. (2023). Brain Evoked Response Qualification Using Multi-set Consensus Clustering: Toward Single-trial EEG Analysis. Submitted to Psycho-physiology available as preprint at Authorea. [https://doi.org/10.22541/au.169600882.28722374/v1](https://doi.org/10.22541/au.169600882.28722374/v1).  
 2.  Mahini, R., Li, F., Zarei, M., Nandi, A. K., Hämäläinen, T., & Cong, F. (2023). Ensemble deep clustering analysis for time window determination of event-related potentials. Biomedical Signal Processing and Control, 86, 105202. [DOI.org/https://doi.org/10.1016/j.bspc.2023.105202](https://doi.org/10.1016/j.bspc.2023.105202)
 3.	Mahini, R., Xu, P., Chen, G., Li, Y., Ding, W., Zhang, L., Qureshi, N. K., Hämäläinen, T., Nandi, A. K., & Cong, F. (2022). Optimal Number of Clusters by Measuring Similarity Among Topographies for Spatio-Temporal ERP Analysis. Brain Topography. [DOI.org/10.1007/s10548-022-00903-2](https://doi.org/10.1007/s10548-022-00903-2) 
 4.	Li, F; Yan, R; Mahini, R; Wei, L; Wang, Zh; Mathiak, K; Liu, R; Cong, F (2021). End-to-end sleep staging using convolutional neural network in raw single-channel EEG. Biomedical Signal Processing and Control, 63, 102203. [DOI:10.1016/j.bspc.2020.102203](https://doi.org/10.1016/j.bspc.2020.102203).
