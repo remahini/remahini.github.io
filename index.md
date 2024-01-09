@@ -4,7 +4,7 @@ My research interest is to develop machine learning methods for modeling brain i
 See more at [My Homepage](https://www.jyu.fi/en/people/reza-mahini-sheikhhosseini)  
 
 ### Disciplines
-Information Science; Biomedical Engineering; Applied Mathematics
+Computer and information sciences; Biomedical Engineering; Applied Mathematics
 
 ### Skills and expertise
 Machine Learning, Signal Processing, Brain Imaging, Computational Neuroscience, Event-Related Potentials (ERP), Electroencephalogram (EEG), and simulation and toolbox development using MatLab, Python, and RStudio programming.
