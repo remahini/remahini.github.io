@@ -1,14 +1,13 @@
 ![image](https://scholar.googleusercontent.com/citations?view_op=medium_photo&user=FrA8YaAAAAAJ&citpid=7) 
 ### Reza Mahini
-My research focuses on developing machine learning-based methods for modeling brain imaging data, such as EEG/MEG. The core goal of developing models is to explore/confirm interpretable interesting patterns associated with the human brain information processing. I am also interested in designing statistical models for testing experimental/computational hypotheses in terms of developing robust signal-processing methods.  
+My research interest is to develop machine learning methods for modeling brain imaging data, such as EEG/MEG. The goal of developing such a model is to explore/confirm interpretable interesting patterns associated with the human brain information processing. I am also interested in designing statistical models for testing experimental/computational hypotheses in terms of developing robust signal-processing methods.  
 See my official homepage at [My Homepage](https://www.jyu.fi/en/people/reza-mahini-sheikhhosseini)  
 
 ### Disciplines
 Information Science; Biomedical Engineering; Applied Mathematics
 
 ### Skills and expertise
-Machine Learning, Signal Processing, Brain Imaging, Computational Neuroscience, Event-Related Potentials (ERP), Electroencephalogram (EEG).
-MatLab, Python, and R toolbox development.
+Machine Learning, Signal Processing, Brain Imaging, Computational Neuroscience, Event-Related Potentials (ERP), Electroencephalogram (EEG), and simulation and toolbox development using MatLab, Python, and RStudio programming.
 
 
 
