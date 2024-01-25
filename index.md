@@ -1,7 +1,7 @@
 ![image](https://scholar.googleusercontent.com/citations?view_op=medium_photo&user=FrA8YaAAAAAJ&citpid=7) 
 ### Reza Mahini
 My research interest is to develop machine learning methods for modeling brain imaging data, such as EEG/MEG. The goal of developing such a model is to explore/confirm interpretable interesting patterns associated with the human brain information processing. I am also interested in designing statistical models for testing experimental/computational hypotheses in terms of developing robust signal-processing methods.  
-Find more information at [My Homepage](https://www.researchgate.net/profile/Reza-Mahini-2) and [My ORCID](https://orcid.org/0000-0001-6833-1437)   
+Find more information at [My Homepage](https://www.researchgate.net/profile/Reza-Mahini-2) and [My ORCID](https://orcid.org/0000-0001-6833-1437) .   
 
 ### Disciplines
 Computer and information sciences; Biomedical Engineering; Applied Mathematics
@@ -19,7 +19,7 @@ Machine Learning, Signal Processing, Brain Imaging, Computational Neuroscience, 
 4.	Li, F; Yan, R; Mahini, R; Wei, L; Wang, Zh; Mathiak, K; Liu, R; Cong, F (2021). End-to-end sleep staging using convolutional neural network in raw single-channel EEG. Biomedical Signal Processing and Control, 63, 102203. [DOI:10.1016/j.bspc.2020.102203](https://doi.org/10.1016/j.bspc.2020.102203).
 5.	Mahini, R., Li, Y, Ding, W, Fu, R, Nandi, A. K., Chen G, Cong, F. (2020). Determination of the Time-Window of Event-Related Potential Using Multiple-Set Consensus Clustering., Frontiers in neuroscience. [DOI:10.3389/fnins.2020.521595](https://doi.org/10.3389/fnins.2020.521595).
 
-Find more publications at [My ORCID](https://orcid.org/0000-0001-6833-1437)  
+Find more publications at [My page](https://www.researchgate.net/profile/Reza-Mahini-2) . 
 
 ### Professional Tools 
 
