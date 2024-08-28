@@ -11,7 +11,7 @@ Machine Learning, Signal Processing, Brain Imaging, Computational Neuroscience, 
 
 
 
-### Some of my Recent Publications:
+### Some of my recent publications:
 
 1.  Mahini, R., Zhang, G., Parviainen, T., Düsing, R., Nandi, A. K., Cong, F., & Hämäläinen, T. (2024). Brain Evoked Response Qualification Using Multi-set Consensus Clustering: Toward Single-Trial EEG Analysis. Brain Topography. [DOI:10.1007/s10548-024-01074-y](https://doi.org/10.1007/s10548-024-01074-y).  
 2.  Mahini, R., Li, F., Zarei, M., Nandi, A. K., Hämäläinen, T., & Cong, F. (2023). Ensemble deep clustering analysis for time window determination of event-related potentials. Biomedical Signal Processing and Control, 86, 105202. [DOI:/10.1016/j.bspc.2023.105202](https://doi.org/10.1016/j.bspc.2023.105202)
@@ -21,14 +21,16 @@ Machine Learning, Signal Processing, Brain Imaging, Computational Neuroscience, 
 
 Find more publications at [My page](https://www.researchgate.net/profile/Reza-Mahini-2) . 
 
-### Professional Tools 
+### Professional tools 
 
 • Single_Trial EEG_MSCC: Consensus clustering-based pipeline for single-trial EEG epoch clustering (2023). [https://github.com/remahini/Single_trial_EEG_MSCC](https://github.com/remahini/Single_trial_EEG_MSCC).  
 • Deep clustering for ERP: Semi-supervised and unsupervised deep clustering for cluster analysis modeling (2023). [https://github.com/remahini/Deep_Clustering](https://github.com/remahini/Deep_Clustering)  
 •	Opt_NC ERP MATLAB Toolbox: For determination of the optimal number of clusters in spatio-temporal ERP and processing ERP (2022). [https://github.com/ReyCJ/Opt_NC_ERP](https://github.com/remahini/OptNC_ERP)  
 •	ERP_CC MATLAB Toolbox: For determination of the best time window in spatio-temporal ERP and processing ERP (2019). [http://github.com/ReyCJ/ERP_MSCC](https://github.com/remahini/ERP_MSCC)  
 
-**See more at** [my current research projects and toolboxes](https://www.researchgate.net/profile/Reza-Mahini-2) 
+**See more at** [my current research projects and toolboxes](https://www.researchgate.net/profile/Reza-Mahini-2)  
+[My CV](https://docs.google.com/document/d/1aao4x3HSgbOdFzHLNHdWCsdii0Osaxe-/edit?usp=sharing&ouid=102793299185240383071&rtpof=true&sd=true)
+
 
 ### Contact me at:
 Department of Neuroscience and Biomedical Engineering- Aalto University
