@@ -1,7 +1,7 @@
 ![image](https://scholar.googleusercontent.com/citations?view_op=medium_photo&user=FrA8YaAAAAAJ&citpid=7) 
 ### Reza Mahini
 My research interest is to develop machine learning methods for modeling brain imaging data, such as EEG/MEG. The goal of developing such a model is to explore/confirm interpretable interesting patterns associated with the human brain information processing. I am also interested in designing statistical models for testing experimental/computational hypotheses in terms of developing robust signal-processing methods.  
-Find more information at [My Homepage](https://www.researchgate.net/profile/Reza-Mahini-2) and [My ORCID](https://orcid.org/0000-0001-6833-1437) .   
+Find more information at [My Homepage](https://www.researchgate.net/profile/Reza-Mahini-2),[My ORCID](https://orcid.org/0000-0001-6833-1437), and [My CV](https://drive.google.com/file/d/1atpxS-g_NrEbE_UEoBcRhyMkOoSdsXkj/view?usp=sharing) .   
 
 ### Disciplines
 Computer and information sciences; Biomedical Engineering; Applied Mathematics
@@ -29,7 +29,7 @@ Find more publications at [My page](https://www.researchgate.net/profile/Reza-Ma
 •	ERP_CC MATLAB Toolbox: For determination of the best time window in spatio-temporal ERP and processing ERP (2019). [http://github.com/ReyCJ/ERP_MSCC](https://github.com/remahini/ERP_MSCC)  
 
 **See more at** [my current research projects and toolboxes](https://www.researchgate.net/profile/Reza-Mahini-2)  
-[My CV](https://drive.google.com/file/d/1atpxS-g_NrEbE_UEoBcRhyMkOoSdsXkj/view?usp=sharing)
+
 
 
 ### Contact me at:
