@@ -29,7 +29,7 @@ Find more publications at [My page](https://www.researchgate.net/profile/Reza-Ma
 •	ERP_CC MATLAB Toolbox: For determination of the best time window in spatio-temporal ERP and processing ERP (2019). [http://github.com/ReyCJ/ERP_MSCC](https://github.com/remahini/ERP_MSCC)  
 
 **See more at** [my current research projects and toolboxes](https://www.researchgate.net/profile/Reza-Mahini-2)  
-[My CV](https://docs.google.com/document/d/1aao4x3HSgbOdFzHLNHdWCsdii0Osaxe-/edit?usp=sharing&ouid=102793299185240383071&rtpof=true&sd=true)
+[My CV](https://drive.google.com/file/d/1atpxS-g_NrEbE_UEoBcRhyMkOoSdsXkj/view?usp=sharing)
 
 
 ### Contact me at:
