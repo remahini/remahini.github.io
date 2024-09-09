@@ -1,6 +1,6 @@
 ![image](https://scholar.googleusercontent.com/citations?view_op=medium_photo&user=FrA8YaAAAAAJ&citpid=7) 
 ### Reza Mahini
-I hold a Doctor of Philosophy from the University of Jyväskylä’s Faculty of Information Technology, with a focus on engineering and neuroscience. My expertise lies in developing machine learning methods for robust neuroimaging modeling, aimed at identifying meaningful patterns and discovering biosignatures. 
+I hold a Doctor of Philosophy Degree from the University of Jyväskylä’s Faculty of Information Technology, with a focus on engineering and neuroscience. My expertise lies in developing machine learning methods for robust neuroimaging modeling, aimed at identifying meaningful patterns and discovering biosignatures. 
 Find more information at [My Homepage](https://www.researchgate.net/profile/Reza-Mahini-2), [ORCID](https://orcid.org/0000-0001-6833-1437), and [CV](https://drive.google.com/file/d/1atpxS-g_NrEbE_UEoBcRhyMkOoSdsXkj/view?usp=sharing) .   
 
 ### Disciplines
