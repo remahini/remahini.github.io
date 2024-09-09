@@ -1,6 +1,6 @@
 ![image](https://scholar.googleusercontent.com/citations?view_op=medium_photo&user=FrA8YaAAAAAJ&citpid=7) 
 ### Reza Mahini
-My research interest is to develop machine learning methods for modeling brain imaging data, such as EEG/MEG. The goal of developing such a model is to explore/confirm interpretable interesting patterns associated with the human brain information processing. I am also interested in designing statistical models for testing experimental/computational hypotheses in terms of developing robust signal-processing methods.  
+I hold a Doctor of Philosophy from the University of Jyväskylä’s Faculty of Information Technology, with a focus on engineering and neuroscience. My expertise lies in developing machine learning methods for robust neuroimaging modeling, aimed at identifying meaningful patterns and discovering biosignatures. 
 Find more information at [My Homepage](https://www.researchgate.net/profile/Reza-Mahini-2), [ORCID](https://orcid.org/0000-0001-6833-1437), and [CV](https://drive.google.com/file/d/1atpxS-g_NrEbE_UEoBcRhyMkOoSdsXkj/view?usp=sharing) .   
 
 ### Disciplines
