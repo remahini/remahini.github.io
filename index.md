@@ -7,7 +7,8 @@ Find more information at [My Homepage](https://www.researchgate.net/profile/Reza
 Computer and information sciences; Biomedical Engineering; Applied Mathematics
 
 ### Skills and expertise
-Machine Learning, Signal Processing, Brain Imaging, Computational Neuroscience, Event-Related Potentials (ERP), Electroencephalogram (EEG), and simulation and toolbox development using MatLab, Python, and RStudio programming.
+Signal Processing & Machine Learning, Neuroimaging, Event-Related Potentials (ERP), Electroencephalogram (EEG), and simulation and toolbox development using MatLab, Python, and RStudio programming.
+I am focused on modeling biological systems and characterizing biomarkers from neuroimaging data. Additionally, I am interested in researching and designing secure cyberpsychological systems.
 
 
 
