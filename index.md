@@ -8,7 +8,7 @@ Computer and information sciences; Biomedical Engineering; Applied Mathematics
 
 ### Skills and expertise
 Signal Processing & Machine Learning, Neuroimaging, Event-Related Potentials (ERP), Electroencephalogram (EEG), and simulation and toolbox development using MatLab, Python, and RStudio programming.
-I am focused on modeling biological systems and characterizing biomarkers from neuroimaging data. Additionally, I am interested in researching and designing secure cyberpsychological systems.
+I am focused on modeling biological systems and characterizing biomarkers from neuroimaging data. Additionally, I am interested in researching and designing secure Cyber-psychology context.
 
 
 
