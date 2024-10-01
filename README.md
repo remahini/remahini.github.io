@@ -1,2 +1,6 @@
-# Welcome to my webpage
-My name is Reza. My research focuses on developing machine learning tools to explore interesting information pieces in neuroimaging data (e.g., EEG, MEG, and ERP). Investigating brain activities from various perspectives can provide a better sense of understanding of the brain information processing functions.
+Introduction
+I hold a Doctor of Philosophy Degree from the University of Jyväskylä’s Faculty of Information Technology, with a focus on engineering and neuroscience. My expertise lies in developing machine learning methods for robust neuroimaging modeling, aimed at identifying meaningful patterns and discovering biosignatures.
+Disciplines
+Information ScienceBiomedical EngineeringApplied Mathematics
+Skills and expertise
+Machine LearningEvent-Related PotentialsBrain ImagingCognitive NeuroscienceComputational NeuroscienceNeuroimaging
