@@ -1,6 +1,6 @@
 ![image](https://scholar.googleusercontent.com/citations?view_op=medium_photo&user=FrA8YaAAAAAJ&citpid=7) 
 ### Reza Mahini
-I hold a Doctor of Philosophy Degree from the University of Jyväskylä’s Faculty of Information Technology, with a focus on engineering and neuroscience. My expertise lies in developing machine learning methods for robust neuroimaging modeling, aimed at identifying meaningful patterns and discovering biosignatures. 
+My research focuses on developing machine learning approaches to uncover reliable patterns and signatures across neuroimaging modalities, behavioral data, and statistical models, with the goal of enabling trustworthy healthcare innovations. Current projects include biomarker discovery for major depressive disorder, real-time prediction of neurological disorders such as seizures, and the development of hybrid intelligence systems that integrate human expertise with AI to promote mental well-being. 
 Find more information at [My Homepage](https://www.researchgate.net/profile/Reza-Mahini-2), [ORCID](https://orcid.org/0000-0001-6833-1437), and [CV](https://drive.google.com/file/d/10TH-kUnVOGlTmRE07iRGFXziyn2OTJrf/view?usp=sharing) .   
 
 ### Disciplines
