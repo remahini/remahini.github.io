@@ -1,6 +1,6 @@
 
 ### About Me  
-I’m Reza Mahini, Ph.D. in Computer and Information Sciences with a specialization in Computational Neuroscience. My research bridges machine learning and neuroimaging to develop robust, explainable models for brain data analysis and healthcare innovation. Currently, I’m a postdoctoral fellow at Aalto University, contributing to projects involving biomarker discovery, real-time neurological prediction, and hybrid intelligence systems.
+My research focuses on developing machine learning approaches to uncover reliable patterns and signatures across neuroimaging modalities, behavioral data, and statistical models, with the goal of enabling trustworthy healthcare innovations. Current projects include biomarker discovery for major depressive disorder, real-time prediction of neurological disorders such as seizures, and the development of hybrid intelligence systems that integrate human expertise with AI to promote mental well-being.
 
 ### Disciplines  
 - Computer Science  
