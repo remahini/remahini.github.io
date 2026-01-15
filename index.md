@@ -7,8 +7,7 @@ Find more information at [My Homepage](https://www.researchgate.net/profile/Reza
 Computer and information sciences; Biomedical Engineering; Applied Mathematics
 
 ### Reseach interest
-Signal Processing & Machine Learning, Neuroimaging, Event-Related Potentials (ERP), Electroencephalogram (EEG), and simulation and toolbox development using MatLab, Python, and RStudio programming.
-I am focused on modeling biological systems and characterizing biomarkers from neuroimaging data. Additionally, I am interested in researching and designing secure Cyber-psychology context.
+Signal processing and machine learning for neuroimaging, with a focus on EEG, event-related potentials (ERPs), and spatiotemporal brain dynamics. My research centers on modeling biological systems and identifying neural biomarkers from neurophysiological data. I am also interested in simulation-based method development and reproducible analysis toolboxes using MATLAB, Python, and R, as well as ethical and secure approaches to data-driven mental health research.
 
 
 
