@@ -1,13 +1,13 @@
 ![image](https://scholar.googleusercontent.com/citations?view_op=medium_photo&user=FrA8YaAAAAAJ&citpid=7) 
 ### Reza Mahini
-My research focuses on machine learning and statistical methods for analyzing neuro-electrophysiological data, with an emphasis on EEG/MEG, event-related potentials (ERPs), and spatiotemporal brain-state dynamics. I study neural biomarker discovery and phenotyping for mental and neurological disorders using feature engineering, clustering, and predictive modeling. Current work includes sequence-based modeling for major depressive disorder (MDD) and real-time forecasting of epileptic activity. 
+I hold a Ph.D. in Computer and Information Sciences with a specialization in computational neuroscience. My work sits at the intersection of machine learning and neuroimaging, with a focus on developing interpretable and reproducible methods for neuro-electrophysiological data analysis. I am currently a postdoctoral researcher at Aalto University, where I contribute to research on data-driven modeling of brain dynamics in mental and neurological disorders.
 Find more information at [My Homepage](https://www.researchgate.net/profile/Reza-Mahini-2), [ORCID](https://orcid.org/0000-0001-6833-1437), and [CV](https://drive.google.com/file/d/10TH-kUnVOGlTmRE07iRGFXziyn2OTJrf/view?usp=sharing) .   
 
 ### Disciplines
 Computer and information sciences; Biomedical Engineering; Applied Mathematics
 
 ### Reseach interest
-Signal processing and machine learning for neuroimaging, with a focus on EEG, event-related potentials (ERPs), and spatiotemporal brain dynamics. My research centers on modeling biological systems and identifying neural biomarkers from neurophysiological data. I am also interested in simulation-based method development and reproducible analysis toolboxes using MATLAB, Python, and R, as well as ethical and secure approaches to data-driven mental health research.
+My research focuses on machine learning, bio-signal processing, and statistical methods for analyzing neuro-electrophysiological data, with an emphasis on EEG/MEG, event-related potentials (ERPs), and spatiotemporal brain-state dynamics. I study neural biomarker discovery and phenotyping for mental and neurological disorders using feature engineering, clustering, and predictive modeling. Current work includes sequence-based modeling for major depressive disorder (MDD) and real-time forecasting of epileptic activity.I am also interested in simulation-based method development and reproducible analysis toolboxes using MATLAB, Python, and R, as well as ethical and secure approaches to data-driven mental health research.
 
 ### Professional tools 
 
