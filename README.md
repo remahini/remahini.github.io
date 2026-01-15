@@ -1,6 +1,6 @@
 
 ### About Me  
-My research focuses on developing machine learning approaches to uncover reliable patterns and signatures across neuroimaging modalities, behavioral data, and statistical models, with the goal of enabling trustworthy healthcare innovations. Current projects include biomarker discovery for major depressive disorder, real-time prediction of neurological disorders such as seizures, and the development of hybrid intelligence systems that integrate human expertise with AI to promote mental well-being.
+Computational neuroscience and biomedical signal processing, with a focus on EEG/MEG and ERP analysis, spatiotemporal modeling, and consensus-driven clustering methods (hypergraph and deep ensemble approaches). Neural biomarker discovery and characterization, particularly for affective and neurological disorders, using machine learning-based feature engineering and predictive modeling. Real-time prediction and forecasting of brain dynamics, including epilepsy and mental health applications.
 
 ### Disciplines  
 - Computer Science  
