@@ -9,7 +9,12 @@ Computer and information sciences; Biomedical Engineering; Applied Mathematics
 ### Reseach interest
 Signal processing and machine learning for neuroimaging, with a focus on EEG, event-related potentials (ERPs), and spatiotemporal brain dynamics. My research centers on modeling biological systems and identifying neural biomarkers from neurophysiological data. I am also interested in simulation-based method development and reproducible analysis toolboxes using MATLAB, Python, and R, as well as ethical and secure approaches to data-driven mental health research.
 
+### Professional tools 
 
+• Single_Trial EEG_MSCC: Consensus clustering-based pipeline for single-trial EEG epoch clustering (2023). [https://github.com/remahini/Single_trial_EEG_MSCC](https://github.com/remahini/Single_trial_EEG_MSCC).  
+• Deep clustering for ERP: Semi-supervised and unsupervised deep clustering for cluster analysis modeling (2023). [https://github.com/remahini/Deep_Clustering](https://github.com/remahini/Deep_Clustering)  
+•	Opt_NC ERP MATLAB Toolbox: For determination of the optimal number of clusters in spatio-temporal ERP and processing ERP (2022). [https://github.com/ReyCJ/Opt_NC_ERP](https://github.com/remahini/OptNC_ERP)  
+•	ERP_CC MATLAB Toolbox: For determination of the best time window in spatio-temporal ERP and processing ERP (2019). [http://github.com/ReyCJ/ERP_MSCC](https://github.com/remahini/ERP_MSCC)  
 
 ### Some of my recent publications:
 
@@ -21,15 +26,8 @@ Signal processing and machine learning for neuroimaging, with a focus on EEG, ev
 
 Find more publications at [My page](https://www.researchgate.net/profile/Reza-Mahini-2) . 
 
-### Professional tools 
-
-• Single_Trial EEG_MSCC: Consensus clustering-based pipeline for single-trial EEG epoch clustering (2023). [https://github.com/remahini/Single_trial_EEG_MSCC](https://github.com/remahini/Single_trial_EEG_MSCC).  
-• Deep clustering for ERP: Semi-supervised and unsupervised deep clustering for cluster analysis modeling (2023). [https://github.com/remahini/Deep_Clustering](https://github.com/remahini/Deep_Clustering)  
-•	Opt_NC ERP MATLAB Toolbox: For determination of the optimal number of clusters in spatio-temporal ERP and processing ERP (2022). [https://github.com/ReyCJ/Opt_NC_ERP](https://github.com/remahini/OptNC_ERP)  
-•	ERP_CC MATLAB Toolbox: For determination of the best time window in spatio-temporal ERP and processing ERP (2019). [http://github.com/ReyCJ/ERP_MSCC](https://github.com/remahini/ERP_MSCC)  
 
 **See more at** [my current research projects and toolboxes](https://www.researchgate.net/profile/Reza-Mahini-2)  
-
 
 
 ### Contact me at:
