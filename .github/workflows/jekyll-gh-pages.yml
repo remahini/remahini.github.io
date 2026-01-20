@@ -24,19 +24,39 @@ concurrency:
 jobs:
   # Build job
   build:
-    runs-on: ubuntu-latest
-    steps:
-      - name: Checkout
-        uses: actions/checkout@v4
-      - name: Setup Pages
-        uses: actions/configure-pages@v4
-      - name: Build with Jekyll
-        uses: actions/jekyll-build-pages@v1
-        with:
-          source: ./
-          destination: ./_site
-      - name: Upload artifact
-        uses: actions/upload-pages-artifact@v2
+      runs-on: ubuntu-latest
+      steps:
+        - name: Checkout
+          uses: actions/checkout@v4
+    
+        - name: Setup Ruby
+          uses: ruby/setup-ruby@v1
+          with:
+            ruby-version: '3.2'  # adjust if your site needs another Ruby version
+    
+        - name: Install dependencies
+          run: |
+            gem install bundler
+            if [ -f Gemfile ]; then
+              bundle config set --local path vendor/bundle
+              bundle install --jobs 4 --retry 3
+            else
+              # ensure jekyll and remote-theme are available if there's no Gemfile
+              gem install jekyll jekyll-remote-theme
+            fi
+    
+        - name: Build with Jekyll
+          run: |
+            if [ -f Gemfile ]; then
+              bundle exec jekyll build --source . --destination ./_site
+            else
+              jekyll build --source . --destination ./_site
+            fi
+    
+        - name: Upload Pages artifact
+          uses: actions/upload-pages-artifact@v2
+          with:
+            path: ./_site
 
   # Deployment job
   deploy:
@@ -49,3 +69,4 @@ jobs:
       - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v2
+    
