@@ -1,7 +1,7 @@
 ![image](https://scholar.googleusercontent.com/citations?view_op=medium_photo&user=FrA8YaAAAAAJ&citpid=7) 
 ### Reza Mahini
 I hold a Ph.D. in Computer and Information Sciences with a specialization in computational neuroscience. My work sits at the intersection of machine learning and neuroimaging, with a focus on developing interpretable and reproducible methods for neuro-electrophysiological data analysis. I am currently a postdoctoral researcher at Aalto University, where I contribute to research on data-driven modeling of brain dynamics in mental and neurological disorders.
-Find more information at [My Homepage](https://www.researchgate.net/profile/Reza-Mahini-2), [ORCID](https://orcid.org/0000-0001-6833-1437), and [CV](https://drive.google.com/file/d/10TH-kUnVOGlTmRE07iRGFXziyn2OTJrf/view?usp=sharing) .   
+Find more information at [My Homepage](https://www.researchgate.net/profile/Reza-Mahini-2), [ORCID](https://orcid.org/0000-0001-6833-1437), and [CV](Reza Mahini_CV_2026.pdf) .   
 
 ### Disciplines
 Computer and information sciences; Biomedical Engineering; Applied Mathematics
